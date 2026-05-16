@@ -8,7 +8,8 @@ A complete end-to-end SQL project that cleans a real-world tech layoffs dataset 
 
 Raw data is messy. This project takes a Kaggle layoffs dataset — full of duplicates, inconsistent formatting, null values, and mixed date formats — and transforms it into a clean, analysis-ready table using a structured multi-stage SQL pipeline. The cleaned data is then used to rank the top companies by layoffs across every year from 2020 to 2023.
 
-Project link : 
+Project link : https://github.com/unknownshiv21/DATA-ANALYSIS/blob/main/data_cleaning.sql
+
 ---
 
 ## 🗂️ Dataset
