@@ -10,7 +10,7 @@ This project explores what drives a customer to purchase a bike. Using a real-wo
 
 Project Link: https://docs.google.com/spreadsheets/d/1cbdcr3Z65QOBpQwAJB3evHhffUXN3-VV/edit?usp=sharing&ouid=107644530890509605192&rtpof=true&sd=true
 
-Report: file:///C:/Users/Shivansh/Desktop/BIKE_SALE_DASHBOARD.html
+Report: C:/Users/Shivansh/Desktop/BIKE_SALE_DASHBOARD.html
 
 ---
 
