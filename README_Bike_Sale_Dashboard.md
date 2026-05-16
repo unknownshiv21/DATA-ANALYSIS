@@ -8,6 +8,10 @@ An interactive Excel dashboard analysing 1,000+ customer records to uncover bike
 
 This project explores what drives a customer to purchase a bike. Using a real-world-style dataset of 1,026 customers, the analysis segments buyers by age, income, gender, occupation, region, and commute distance to surface actionable marketing and sales insights — all inside a single, interactive Excel workbook.
 
+Project Link: https://docs.google.com/spreadsheets/d/1cbdcr3Z65QOBpQwAJB3evHhffUXN3-VV/edit?usp=sharing&ouid=107644530890509605192&rtpof=true&sd=true
+
+Report: file:///C:/Users/Shivansh/Desktop/BIKE_SALE_DASHBOARD.html
+
 ---
 
 ## 🗂️ Dataset
